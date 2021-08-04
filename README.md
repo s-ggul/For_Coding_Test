@@ -1,7 +1,5 @@
 ## 코딩테스트 준비 Repository
 
-<hr/>
-
 ### 코딩테스트에 필요한 파이썬 문법 복습 - Python_Language
 
 <hr/>
