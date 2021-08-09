@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10814_Object_Sort/10814_Object_Sort.iml" filepath="$PROJECT_DIR$/10814_Object_Sort/10814_Object_Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10989_Counting_Sort/10989_Counting_Sort.iml" filepath="$PROJECT_DIR$/10989_Counting_Sort/10989_Counting_Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11650_using_lamda_formula_sort/11650_using_lamda_formula_sort.iml" filepath="$PROJECT_DIR$/11650_using_lamda_formula_sort/11650_using_lamda_formula_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1181_using_lamda_String_sort/1181_using_lamda_String_sort.iml" filepath="$PROJECT_DIR$/1181_using_lamda_String_sort/1181_using_lamda_String_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1260_DFS_BFS/1260_DFS_BFS.iml" filepath="$PROJECT_DIR$/1260_DFS_BFS/1260_DFS_BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17298_NGE/17298_NGE.iml" filepath="$PROJECT_DIR$/17298_NGE/17298_NGE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1966_Printer_Queue/1966_Printer_Queue.iml" filepath="$PROJECT_DIR$/1966_Printer_Queue/1966_Printer_Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2108_Find_ModeValue/2108_Find_ModeValue.iml" filepath="$PROJECT_DIR$/2108_Find_ModeValue/2108_Find_ModeValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2751_Fast_Sort/2751_Fast_Sort.iml" filepath="$PROJECT_DIR$/2751_Fast_Sort/2751_Fast_Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BF_reader_writer/BF_reader_writer_15552.iml" filepath="$PROJECT_DIR$/BF_reader_writer/BF_reader_writer_15552.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BJ_1011/BJ_1011.iml" filepath="$PROJECT_DIR$/BJ_1011/BJ_1011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BJ_1978_and_2581_PrimeNum/BJ_1978_and_2581_PrimeNum.iml" filepath="$PROJECT_DIR$/BJ_1978_and_2581_PrimeNum/BJ_1978_and_2581_PrimeNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BJ_study_1/BJ_STUDY.iml" filepath="$PROJECT_DIR$/BJ_study_1/BJ_STUDY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigInteger_used_10757/BigInteger_used_10757.iml" filepath="$PROJECT_DIR$/BigInteger_used_10757/BigInteger_used_10757.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Check_Num_Sequence/Check_Num_Sequence.iml" filepath="$PROJECT_DIR$/Check_Num_Sequence/Check_Num_Sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DEQUE_used_iterator/DEQUE_used_iterator.iml" filepath="$PROJECT_DIR$/DEQUE_used_iterator/DEQUE_used_iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EOF_ex_A+B/EOF_ex_A+B_10951.iml" filepath="$PROJECT_DIR$/EOF_ex_A+B/EOF_ex_A+B_10951.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fit_Weight_2839/Fit_Weight_2839.iml" filepath="$PROJECT_DIR$/Fit_Weight_2839/Fit_Weight_2839.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Snale_2869/Snale_2869.iml" filepath="$PROJECT_DIR$/Snale_2869/Snale_2869.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrToASCII_11654/StrToASCII_11654.iml" filepath="$PROJECT_DIR$/StrToASCII_11654/StrToASCII_11654.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Str_Format_ex/Str_Format_ex_4344.iml" filepath="$PROJECT_DIR$/Str_Format_ex/Str_Format_ex_4344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordCount_use_equals_1152/WordCount_use_equals_1152.iml" filepath="$PROJECT_DIR$/WordCount_use_equals_1152/WordCount_use_equals_1152.iml" />
+    </modules>
+  </component>
+</project>
