@@ -13,6 +13,7 @@ print(ord(input()))
 입력된 10진수를 문자로 출력
 n = int(input())
 print(chr(n))
+
 '''
 
 
