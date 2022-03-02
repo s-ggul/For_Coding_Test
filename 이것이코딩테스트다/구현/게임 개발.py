@@ -1,3 +1,4 @@
+'''
 # N과 M을 공백으로 구분하여 입력받기
 n, m = map(int, input().split())
 
@@ -63,3 +64,4 @@ while True :
         turn_time = 0
 
 print(count)
+'''

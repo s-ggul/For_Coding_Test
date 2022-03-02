@@ -1,3 +1,4 @@
+'''
 # 나의 풀이.
 N, K = map(int, input().split())
 count = 0
@@ -15,7 +16,6 @@ while True:
 
 print(count)
 
-'''
 교재 풀이 1
 n, k = map(int, input().split())
 result = 0
@@ -51,3 +51,20 @@ while True :
 result += (n-1)
 print(result)
 '''
+
+n, k = map(int, input().split())
+
+count = 0
+
+while True :
+    if n == 1 :
+        break    
+    
+    if (n%k) != 0 : 
+        n -= 1
+        count += 1
+    else:
+        n = n // k
+        count += 1
+
+print(count)

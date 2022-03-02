@@ -1,3 +1,4 @@
+'''
 input_data = input()
 row = int(input_data[1])
 column = int(ord(input_data[0])) - int(ord('a')) + 1
@@ -18,3 +19,4 @@ for step in steps :
         result += 1
 
 print(result)
+'''

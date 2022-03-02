@@ -1,3 +1,4 @@
+'''
 N = int(input())
 plans = input().split()
 x, y = 1, 1
@@ -24,3 +25,4 @@ for plan in plans :
     # x, y = nx, ny 와 같이도 적을 수 있음
 
 print(x, y)
+'''

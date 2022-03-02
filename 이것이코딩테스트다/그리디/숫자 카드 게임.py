@@ -1,3 +1,4 @@
+'''
 n, m = map(int, input().split())
 result = 0
 
@@ -9,7 +10,7 @@ for i in range(n):
 
 print(result)
 
-'''
+
 2중 반복문을 사용한 경우
 n, m = map(int, input().split())
 
@@ -25,3 +26,16 @@ for i in range(n):
 
 print(result)
 '''
+
+n, m = map(int, input().split())
+
+result = 0 
+
+for i in range(n):
+    data = list(map(int, input().split()))
+
+    min_value = min(data)
+
+    result = max(result, min_value)
+
+print(result)

@@ -1,3 +1,4 @@
+'''
 N, M, K = map(int, input().split())
 data = list(map(int,input().split()))
 
@@ -22,7 +23,6 @@ while True:
 
 print(result)
 
-'''
 더 효율적인 방법
 N, M, K = map(int, input().split())
 data = list(map(int,input().split()))
@@ -41,3 +41,21 @@ result += (m - count) * secondLarge # 두 번째로 큰 수 더하기
 
 print(result)
 '''
+
+n, m, k = map(int, input().split())
+
+data = list(map(int,input().split()))
+
+data.sort()
+
+largest = data[n-1]
+secondLarge = data[n-2]
+
+count = int(m/(k+1)) * k
+count += m % (k+1)
+
+result = 0
+result += count * largest
+result += (m-count) * secondLarge
+
+print(result)
