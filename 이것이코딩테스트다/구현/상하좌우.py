@@ -26,3 +26,25 @@ for plan in plans :
 
 print(x, y)
 '''
+N = int(input())
+plans = list(input().split())
+
+dx = [0, 0, -1, 1]
+dy = [-1, 1, 0, 0]
+move_type = ['L','R','U','D']
+
+x, y = 1, 1
+
+for plan in plans:
+    for i in range(4):
+        if plan == move_type[i]:
+            nx = x + dx[i]
+            ny = y + dy[i]
+
+    if nx < 1 or nx > N or ny < 1 or ny > N :
+        continue
+    else :
+        x = nx
+        y = ny
+
+print(x, y)
